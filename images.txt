@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 diygod/rsshub
 portainer/portainer-ce:2.21.0
+metatube/metatube-server:latest
