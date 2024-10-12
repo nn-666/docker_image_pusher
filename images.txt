@@ -8,3 +8,4 @@ diygod/rsshub
 portainer/portainer-ce:2.21.0
 metatube/metatube-server:latest
 xhofe/alist:latest
+joeanamier/xhs-downloader
